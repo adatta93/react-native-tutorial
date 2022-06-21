@@ -1,0 +1,22 @@
+1. Create account in expo and login
+2. Add login details in local system through cli
+	expo login
+3. Modify app.json as per https://docs.expo.io/distribution/building-standalone-apps/
+4. Build app
+	expo build:android
+	expo build:android -t app-bundle (for less size)
+5. From expo dashboard check the status
+6. After build download from expo
+
+reduce size
+
+https://medium.com/@aswinmohanme/how-i-reduced-the-size-of-my-react-native-app-by-86-27be72bba640
+https://stackoverflow.com/questions/49993006/how-to-reduce-the-size-of-an-expo-react-native-app-on-android
+
+Anik93 - expoApp@123
+https://exp.host/@anik93/react-native-tutorial
+https://expo.io/@anik93/react-native-tutorial 
+
+Keystor password - 3fa730205a56484dbf25deabd77d25f4
+Key alias - QGFuaWs5My9yZWFjdC1uYXRpdmUtdHV0b3JpYWw=
+Key password - a8fb9e01c14147d38e028b539b68c606

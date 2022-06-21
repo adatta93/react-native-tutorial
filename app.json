@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "RN Tutorial",
+    "slug": "RN_Tutorial",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#ffeb3b",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffeb3b"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.yourcompany.gamezone",
+      "versionCode": 1,
+      "enableDangerousExperimentalLeanBuilds": true
+    }
+  }
+}
